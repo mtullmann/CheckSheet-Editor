@@ -1,0 +1,9 @@
+﻿  CS_Editor_v0.0.0.cpp
+F:\SHtestBeta\CheckSheet Editor\CS_Editor_v0.0.0\CS_Editor_v0.0.0\CS_Editor_v0.0.0.cpp(20,3): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  filedecoder.cpp
+  Code wird generiert.
+  4 of 17 functions (23.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  CS_Editor_v0.0.0.vcxproj -> F:\SHtestBeta\CheckSheet Editor\CS_Editor_v0.0.0\x64\Release\CS_Editor_v0.0.0.exe
