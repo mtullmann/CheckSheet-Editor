@@ -24,6 +24,9 @@
     <ClCompile Include="filedecoder.cpp">
       <Filter>Headerdateien</Filter>
     </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dirent.h">
@@ -42,6 +45,9 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="filedecoder.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

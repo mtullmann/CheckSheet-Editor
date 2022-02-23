@@ -1,0 +1,65 @@
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+Error: Connection!
+*************************
+DiscBot connected to COM 7
+Started at: 09:42:42_04.02.2022 	Ended at: 09:43:19_04.02.2022
+0 Byte were recived & 0 Byte were sent!!
+
+
+##Completly test results: 0 Errors occurred!
+
+##End of Completly test results
+*************************
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+******************************
+	Start
+******************************
+Name: untitled
+*************************
+DiscBot connected to COM 7
+Started at: 15:31:25_17.02.2022 	Ended at: 15:32:02_17.02.2022
+0 Byte were recived & 0 Byte were sent!!
+
+
+##Completly test results: 0 Errors occurred!
+
+##End of Completly test results
+*************************
